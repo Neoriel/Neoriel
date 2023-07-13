@@ -1,4 +1,5 @@
 <h1 align="center">Hi , I'm Abraham Almada</h1>
+<img src = "https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"> 
 <h3 align="center">A passionate trainee developer from Mexico City, I love technology and mathematics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neoriel&label=Profile%20views&color=00bfff&style=flat" alt="neoriel" /> </p>
