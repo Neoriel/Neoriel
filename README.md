@@ -10,15 +10,13 @@
 
 - 🌱 I’m currently learning **Cybersecurity, JavasCript, Python and Computer Science**
 
-- 🤝 I’m looking for help with [My WebSite](https://neoriel.github.io/My-WebSite/)
-
 - 👨‍💻 All of my projects are available at [https://neoriel.github.io/My-WebSite/](https://neoriel.github.io/My-WebSite/)
 
 - 💬 Ask me about **JS, HTML, CSS, Python, Hacking.**
 
 - 📫 How to reach me **abrahamalm01@gmail.com**
 
-- ⚡ Fun fact **I study a verficated certification in Harvard University**
+- ⚡ Fun fact **I wanted to learn c when I was fourteen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
